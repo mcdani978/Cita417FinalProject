@@ -31,7 +31,7 @@ Use WASD to move and the Mouse to look around.
 
 Press Space to jump.
 
-Press E at the second cube to start the fire and finish the mission.
+Press V to Crouch
 
-Follow the HUD prompts to know which cube to go to next.
+Left Click To Shoot The Bullets
 
