@@ -2,7 +2,7 @@
 
 # Core Gameplay
 
-### First-person movement with jumping and crouching
+First-person movement with jumping and crouching
 
 Nerf-style projectile shooting
 
